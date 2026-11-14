@@ -1,0 +1,23 @@
+{
+  "version": "0.10.0",
+  "notes": "Neu in Michi 0.10.0:\n\n- Updates: Michi kann einmal am Tag nachsehen, ob es eine neue Version gibt, und sie auf Klick installieren. Jede Version ist unterschrieben. Einstellung unter Karte → Über Michi.\n- Über Michi zeigt die Versionsnummer.",
+  "pub_date": "2026-11-14T09:52:54Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMFFicThrUWh0MUtLOFRFdDRlV0JqSytSODdwa0tBQzhJOXJCUWluZmJTa2grd3BSWm5QR1NtL3hmczN5NTFKVEErUDRTWU5OOFFaL3NkS3N2UWFUZzV4V3lza2hBWEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjQ5OTczCWZpbGU6TWljaGlfMC4xMC4wX3VuaXZlcnNhbC5hcHAudGFyLmd6CXZlcnNpb246MC4xMC4wClZIQXhXOTJrbS9wL2lFZDVYaXpvQVkrcXhiN2dMRVhGVnVqTnJBT3gyZmFTKzJlYm1rZHRRdXZNMFAxL01DemNHV09xZ0E1MEhGVjN5MFdkVUV3eERRPT0K",
+      "url": "https://github.com/NoOne400/eigene-apps/releases/download/michi-v0.10.0/Michi_0.10.0_universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMFFicThrUWh0MUtLOFRFdDRlV0JqSytSODdwa0tBQzhJOXJCUWluZmJTa2grd3BSWm5QR1NtL3hmczN5NTFKVEErUDRTWU5OOFFaL3NkS3N2UWFUZzV4V3lza2hBWEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjQ5OTczCWZpbGU6TWljaGlfMC4xMC4wX3VuaXZlcnNhbC5hcHAudGFyLmd6CXZlcnNpb246MC4xMC4wClZIQXhXOTJrbS9wL2lFZDVYaXpvQVkrcXhiN2dMRVhGVnVqTnJBT3gyZmFTKzJlYm1rZHRRdXZNMFAxL01DemNHV09xZ0E1MEhGVjN5MFdkVUV3eERRPT0K",
+      "url": "https://github.com/NoOne400/eigene-apps/releases/download/michi-v0.10.0/Michi_0.10.0_universal.app.tar.gz"
+    },
+    "linux-x86_64-appimage": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMFFicThrUWh0MUgxUzZYQkl0TmR2R0xoalFVNzY4SE10UjBTRzFadVRVYWZGTzlTVEVQWkM3aHdXcFg0eFcrT3FEdGxHQ0o3Vko5Qm5JeEFGWlBURnVYaHRzYVBrR0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjQ5OTczCWZpbGU6TWljaGlfMC4xMC4wX2FtZDY0LkFwcEltYWdlCXZlcnNpb246MC4xMC4wCkZad2lnVzNmbXZmN0ZZRitkbmU1azJCMjJWdEFOWGdIUjFiaS8wWWlkK0xSRkdRN3FsZHFVNVd2TU04U0x0TER2NXBlaGpWa3g2dFNlZi9DK1QxdUNRPT0K",
+      "url": "https://github.com/NoOne400/eigene-apps/releases/download/michi-v0.10.0/Michi_0.10.0_amd64.AppImage"
+    },
+    "linux-x86_64-deb": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMFFicThrUWh0MVBvNEdwMVM4VkgwMU1FU211K2dOT0M4dVN2TXVpUmo4RUJYbzMwSlBiVHVjeGpqRUw2cnFzanczemRwT0dKbkhlTWRhNkZDbkhKQUFDY1pETzhEQ1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjQ5OTc0CWZpbGU6bWljaGlfMC4xMC4wX2FtZDY0LmRlYgl2ZXJzaW9uOjAuMTAuMAorRTY2cmpYUXFPSklES3ZscnhMNEVMNUtpcG83WFFUM25wcFBJb0VqTGRLVDFEWDJPZGJwd0ZIRmtqMkxzSUVsMStRelJoNng3WjRSSXJ5eWkzQXZCUT09Cg==",
+      "url": "https://github.com/NoOne400/eigene-apps/releases/download/michi-v0.10.0/michi_0.10.0_amd64.deb"
+    }
+  }
+}
